@@ -1,4 +1,4 @@
-# Amolar
+# Neotropical mammal responses to forest fires in Serra do Amolar, Brazil
 Occupancy and density after forest fires in Serra do Amolar
 
 Data from this analysis can be found in Dryad:
